@@ -2123,6 +2123,13 @@
             {
               "size": "38492678",
               "checksum": "SHA-256:f48706317f04452544ab90e75bd1bb193f8af2cb1002f53aa702f27202c1b38f",
+              "host": "x86_64-apple-darwin11",
+              "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino5-x86_64-apple-darwin14.tar.bz2",
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino5-x86_64-apple-darwin14.tar.bz2"
+            },
+            {
+              "size": "38492678",
+              "checksum": "SHA-256:f48706317f04452544ab90e75bd1bb193f8af2cb1002f53aa702f27202c1b38f",
               "host": "x86_64-apple-darwin14",
               "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino5-x86_64-apple-darwin14.tar.bz2",
               "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino5-x86_64-apple-darwin14.tar.bz2"
