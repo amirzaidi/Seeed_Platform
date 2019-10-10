@@ -2103,6 +2103,54 @@
           ]
         },
         {
+          "name": "avr-gcc",
+          "version": "7.3.0-atmel3.6.1-arduino5",
+          "systems": [
+            {
+              "size": "30780276",
+              "checksum": "SHA-256:a3394e0bc084140c2af1668fdb35dc9ecda27d6fbb58bce7ae9cde1c8eece9ea",
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino5-arm-linux-gnueabihf.tar.bz2",
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino5-arm-linux-gnueabihf.tar.bz2"
+            },
+            {
+              "size": "39381972",
+              "checksum": "SHA-256:dd9c70190be370a44fb47dab1514de6d8852b861dfa527964b65c740d8d50c10",
+              "host": "aarch64-linux-gnu",
+              "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino5-aarch64-pc-linux-gnu.tar.bz2",
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino5-aarch64-pc-linux-gnu.tar.bz2"
+            },
+            {
+              "size": "38492678",
+              "checksum": "SHA-256:f48706317f04452544ab90e75bd1bb193f8af2cb1002f53aa702f27202c1b38f",
+              "host": "x86_64-apple-darwin14",
+              "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino5-x86_64-apple-darwin14.tar.bz2",
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino5-x86_64-apple-darwin14.tar.bz2"
+            },
+            {
+              "size": "53727984",
+              "checksum": "SHA-256:6d4a5d089a36e5b5252befc73da204555b49e376ce7577ee19ca7f028b295830",
+              "host": "i686-mingw32",
+              "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino5-i686-w64-mingw32.zip",
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino5-i686-w64-mingw32.zip"
+            },
+            {
+              "size": "38710087",
+              "checksum": "SHA-256:2ff12739d7ed09688d6b3c2c126e8df69b5bda1a07ab558799f0e576571e0e1d",
+              "host": "i686-linux-gnu",
+              "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino5-i686-pc-linux-gnu.tar.bz2",
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino5-i686-pc-linux-gnu.tar.bz2"
+            },
+            {
+              "size": "39114120",
+              "checksum": "SHA-256:3effed8ffa1978b6e4a46f1aa2acc629e440b4d77244f71f9b79a916025206fb",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino5-x86_64-pc-linux-gnu.tar.bz2",
+              "url": "http://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino5-x86_64-pc-linux-gnu.tar.bz2"
+            }
+          ]
+        },
+        {
           "name": "avrdude",
           "version": "6.0.1-arduino2",
           "systems": [
